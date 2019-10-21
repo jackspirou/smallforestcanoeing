@@ -1,0 +1,25 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Small Forest Canoeing"
+theme = "terrassa"
+
+[params]
+    description = "Small Forest Canoeing is a company where Joe makes badass canoe paddles!" # Description for the meta description tag
+    favicon = ""     # Relative URL for your favicon
+    logo = "images/SmallForest_Green.png"        # Absolute URL for your logo
+
+[params.hero]
+    textColor = "" # Empty for default color
+
+[params.cta] # Call To Action 
+    show = true
+    cta = "Contact"  # Text message of the CTA
+    link = "contact" # Relative URL
+
+[params.separator]
+    show = false
+
+[params.contact]
+    email = "contact@smallforestcanoeing.com"
+    phone = "16517576902"
+    address = "St. Paul Minnesota"
